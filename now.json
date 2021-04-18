@@ -4,7 +4,7 @@
   "build": {
     "env": {
       "CLOUDINARY_URL": "cloudinary://741947492169653:vkyuRmZ3EbSULnkfXJdtSqwhURw@dbplcha6k",
-      "SENDGRID_API_KEY": "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",
+      "SENDGRID_API_KEY": "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"
     }
   }
 }
